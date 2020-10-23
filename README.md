@@ -8,7 +8,6 @@
 - 😄 Pronouns: he/him/his
 - 🐦 [@ me](https://twitter.com/S_Head_Rapson)
 
-<p align="left"> <a href="https://twitter.com/s_head_rapson" target="blank"><img src="https://img.shields.io/twitter/follow/s_head_rapson?logo=twitter&style=for-the-badge" alt="s_head_rapson" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
