@@ -3,16 +3,16 @@
 ### I'm Ste, a full stack software developer based in London
 
 - 🔥 I am a natural born problem solver with a burning desire to make things
-- 🩺 I’m currently working at <p><a target="_blank" src="https://synanetics.com/">Synanetics.</a></p>
-- 💻 Take a look at the things I make on the computer <a target="_blank" src="https://stehera.github.io">here.</a>
-- 🛠 Take a look at the things I make with my hands <a target="_blank" src="https://www.instagram.com/shrmakes/">here.</a>
+- 🩺 I’m currently working at [Synanetics.](https://synanetics.com/)
+- 💻 Take a look at the things I make on the computer [here.](https://stehera.github.io)
+- 🛠 Take a look at the things I make with my hands [here.](https://www.instagram.com/shrmakes/)
 - 😄 Pronouns: he/him/his
-- 📃 <a target="_blank" src="https://www.linkedin.com/in/stephen-head-rapson/">Employ me<a/>
-- 🐦 <a target="_blank" src="https://twitter.com/S_Head_Rapson">@ me</a>
+- 📃 [Employ me](https://www.linkedin.com/in/stephen-head-rapson/)
+- 🐦 [@ me](https://twitter.com/S_Head_Rapson)
 
 <br>
 <p>
-  <a target="_blank" src="https://www.w3schools.com/css/">
+  <a target="_blank" src="https://www.w3schools.com/css/" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   </a>
   <a target="_blank" src="https://www.docker.com/">
