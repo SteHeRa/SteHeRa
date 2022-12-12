@@ -3,7 +3,7 @@
 ### I'm Ste, a full stack software developer based in London
 
 - 🔥 I am a natural born problem solver with a burning desire to make things
-- 🩺 I’m currently working at [Synanetics.](https://synanetics.com/)
+- 🧠 I’m currently working at [Fika.](https://www.fika.community/)
 - 💻 Take a look at the things I make on the computer [here.](https://stehera.github.io)
 - 🛠 Take a look at the things I make with my hands [here.](https://www.instagram.com/shrmakes/)
 - 😄 Pronouns: he/him/his
